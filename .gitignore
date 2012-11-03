@@ -1,2 +1,6 @@
 
-ffmpeg_0.8.10_no_dolby/.DS_Store
+.DS_Store
+
+project.xcworkspace
+
+xcuserdata
