@@ -8,7 +8,7 @@
 @protocol IELMediaPlayer;
 
 // 注册lib库,在调用任何其他操作前调用 : 0: 成功; 1:注册码错误; 
-int registerLib(char * registerCode);
+int RegisterFFEngine(NSString *registerCode);
 
 // 获取MediaPlayer接口
 id<IELMediaPlayer> loadELMediaPlayer();
