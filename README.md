@@ -4,7 +4,7 @@ FFEngine.framework
 FFEngine framework is a high performance player sdk for iOS based on ffmpeg.
 
 
-NOTICE
+!NOTICE!
 ==================
 1. FFEngine source code is for sell.
 2. Looking for outsourcing iOS/Android projects all over the world.
