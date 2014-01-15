@@ -13,8 +13,4 @@ If you think it's useful for you, please donate to us, paypal: xiewei.max@gmail.
 
 2. Source code is for sell.
 
-3. Seeking work opportunity in US, we are a small team of 10 telent guys with iOS/Android development experiences.
-
-4. If you can help me, please mail to xiewei.max@gmail.com, it would be so thankful.
-
-5. Thanks again!
+3. Thanks again!
