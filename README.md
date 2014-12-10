@@ -4,6 +4,12 @@ FFEngine.framework
 FFEngine framework is a high performance player sdk for iOS based on ffmpeg.
 
 
+!ffengine is free now!
+
+Please get the source code at:
+https://github.com/ffengine/libffengine
+
+
 !NOTICE!
 ==================
 1. If your app is free, you may use FFEngine.framework as free with the register key between [[[ and ]]]:
@@ -14,3 +20,4 @@ If you think it's useful for you, please donate to us, paypal: xiewei.max@gmail.
 2. Source code is for sell.
 
 3. Thanks again!
+
